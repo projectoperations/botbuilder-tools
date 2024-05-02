@@ -47,9 +47,9 @@
     "fs-extra": "^5.0.0",
     "get-stdin": "^6.0.0",
     "intercept-stdout": "^0.1.2",
-    "latest-version": "^4.0.0",
+    "latest-version": "^9.0.0",
     "minimist": "^1.2.0",
-    "@azure/ms-rest-js": "1.7.0",
+    "@azure/ms-rest-js": "2.7.0",
     "node-fetch": "^2.1.2",
     "perf_hooks": "0.0.1",
     "read-text-file": "^1.1.0",
@@ -65,7 +65,7 @@
     "enum-files": "^1.1.0",
     "rollup": "^0.66.2",
     "rollup-plugin-node-resolve": "^3.4.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.4.0",
     "targz": "^1.0.1"
   }
 }

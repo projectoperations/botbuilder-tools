@@ -43,6 +43,6 @@
     "chatdown": "./bin/chatdown.js"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^10.4.0"
   }
 }

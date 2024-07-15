@@ -46,7 +46,7 @@
     "@types/uuid": "^3.4.3",
     "@types/valid-url": "^1.0.2",
     "enum-files": "^1.1.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.6.0",
     "targz": "^1.0.1"
   },
   "dependencies": {
@@ -58,7 +58,7 @@
     "fs-extra": "^5.0.0",
     "get-stdin": "^6.0.0",
     "intercept-stdout": "^0.1.2",
-    "latest-version": "^4.0.0",
+    "latest-version": "^9.0.0",
     "linq-collections": "^1.0.254",
     "opn": "^5.3.0",
     "read-text-file": "^1.1.0",
@@ -66,6 +66,6 @@
     "semver": "^5.5.1",
     "uuid": "^3.2.1",
     "valid-url": "^1.0.9",
-    "validator": "^9.4.1"
+    "validator": "^13.7.0"
   }
 }
